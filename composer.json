@@ -24,7 +24,6 @@
     }
   },
   "require": {
-    "php": "^7",
     "ext-mbstring": "*"
   },
   "require-dev": {
